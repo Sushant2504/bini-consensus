@@ -6,7 +6,7 @@ import (
     "time"
 )
 
-const nodeCount = 3
+const nodeCount = 4
 
 func main() {
     rand.Seed(time.Now().UnixNano())
