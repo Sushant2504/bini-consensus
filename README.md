@@ -44,3 +44,10 @@ A basic consensus algorithm implemented in Go, simulating a Raft-style cluster o
 git clone https://github.com/yourusername/bini-consensus
 cd bini-consensus
 go run main.go
+
+
+## 🖼️ Terminal Output Screenshot
+
+Here is a screenshot showing sample output of leader election and log replication:
+
+![Terminal Output](output.png)
