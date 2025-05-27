@@ -45,8 +45,9 @@ git clone https://github.com/yourusername/bini-consensus
 cd bini-consensus
 go run main.go
 
+---
 
-## 🖼️ Terminal Output Screenshot
+### 🖼️ Terminal Output Screenshot
 
 Here is a screenshot showing sample output of leader election and log replication:
 
